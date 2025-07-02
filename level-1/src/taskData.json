@@ -1,0 +1,26 @@
+{
+  "tasks": {
+    "todoItems": [
+      {
+        "title": "Fix CSS",
+        "description": "Homepage footer uses an inline style -- should use a class"
+      }
+    ],
+    "inprogressItems": [
+      {
+        "title": "Extend hotels API",
+        "description": "Add 'petsAllowed' flag to the JSON response"
+      },
+      {
+        "title": "Performance issues",
+        "description": "Requesting available apartments is not taking > 5 seconds"
+      }
+    ],
+    "doneItems": [
+      {
+        "title": "Checkout redesign",
+        "description": "We need to redesign our checkout process. Talk to the designers to get new templates. If some backend changes are required, make sure that you write a Tech design document first and discuss it with out Solution Architects first"
+      }
+    ]
+  }
+}
